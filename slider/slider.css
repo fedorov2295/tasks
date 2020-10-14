@@ -1,0 +1,13 @@
+.my-first-slider{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.my-first-slider img{
+    width:300px;
+    height: 300px;
+}
+.my-first-slider button{
+    position: absolute;
+    height: 300px;
+}
